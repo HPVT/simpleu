@@ -1,224 +1,38 @@
-@Shield Soft Ads
-#Avira
-127.0.0.1 notifier.avira.com
-#ESTsoft
-127.0.0.1 advert.estsoft.com
-#firefox
-127.0.0.1 adbma.adk2.co
-#Potplayer
-127.0.0.1 m.adtc.daum.net
-127.0.0.1 tiara.daum.net
-127.0.0.1 live.tvpot.daum.net
-127.0.0.1 track.tiara.daum.net
-127.0.0.1 tip.daum.net
-#RealPlayer
-127.0.0.1 client-software.real.com
-127.0.0.1 free-dl.cn.real.com
-127.0.0.1 track.cn.real.com
-127.0.0.1 adimg.realnetworks.com.cn
-127.0.0.1 log.realone.com
-#SopCast
-127.0.0.1 home.sopserv.com
-#TtkVod
-127.0.0.1 ad.ttkvod.com
-127.0.0.1 www.diupin.com
-127.0.0.1 ttash.com
-127.0.0.1 hao.kaikai001.com
-#QVOD
-127.0.0.1 110.daddymami.net
-127.0.0.1 acctrack.daddymami.net
-127.0.0.1 android.dl.daddymami.net
-127.0.0.1 lbu.daddymami.net
-127.0.0.1 minisite.daddymami.net
-127.0.0.1 prom.qbho.daddymami.net
-127.0.0.1 qtip.daddymami.net
-127.0.0.1 statis.daddymami.net
-127.0.0.1 text-ad.daddymami.net
-127.0.0.1 vtrack.daddymami.net
-127.0.0.1 xml.web.daddymami.net
-127.0.0.1 android.dl.726.com
-127.0.0.1 lbu.726.com
-127.0.0.1 searchstat.726.com
-127.0.0.1 hunantv.update.yunfan.com
-127.0.0.1 minisite.yunfan.com
-127.0.0.1 mtracker.yunfan.com
-127.0.0.1 stat.yunfan.com
-127.0.0.1 urltracker.yunfan.com
-127.0.0.1 www.yunfan.com
-127.0.0.1 110.kuaibo.com
-127.0.0.1 clk.dm.kuaibo.com
-127.0.0.1 error1.kuaibo.com
-127.0.0.1 lbu.kuaibo.com
-127.0.0.1 minisite.kuaibo.com
-127.0.0.1 prom.qbho.kuaibo.com
-127.0.0.1 qd.kuaibo.com
-127.0.0.1 qtip.kuaibo.com
-127.0.0.1 s.mini.kuaibo.com
-127.0.0.1 stat.kuaibo.com
-127.0.0.1 text-ad.kuaibo.com
-#QVOD-old
-127.0.0.1 110.qvod.com
-127.0.0.1 adi.qvod.com
-127.0.0.1 buffer-ad.qvod.com
-127.0.0.1 insert-ad.qvod.com
-127.0.0.1 pause-ad.qvod.com
-127.0.0.1 text-ad.qvod.com
-127.0.0.1 tj.qvod.com
-127.0.0.1 acctrack.kuaibo.com
-127.0.0.1 agent.kuaibo.com
-127.0.0.1 buffer-ad.kuaibo.com
-127.0.0.1 dl.kuaibo.com
-127.0.0.1 hao.kuaibo.com
-127.0.0.1 mobile.behavior.kuaibo.com
-127.0.0.1 mobile.statis.kuaibo.com
-127.0.0.1 pause-ad.kuaibo.com
-127.0.0.1 statis.kuaibo.com
-127.0.0.1 stun.kuaibo.com
-127.0.0.1 tj.kuaibo.com
-127.0.0.1 ulog.kuaibo.com
-127.0.0.1 update.kuaibo.com
-127.0.0.1 vtrack.kuaibo.com
-127.0.0.1 op.web.kuaiwan.com
-127.0.0.1 op2.web.kuaiwan.com
-127.0.0.1 prom.web.kuaiwan.com
-127.0.0.1 web.kuaiwan.com
-127.0.0.1 dl.duoping.com
-127.0.0.1 agent.ad1111.com
-127.0.0.1 game.ad1111.com
-127.0.0.1 qvodlink.hco.cc
-127.0.0.1 ad.mobile.kuaibo.com
-127.0.0.1 android.dl.kuaibo.com
-127.0.0.1 js.dm.kuaibo.com
-127.0.0.1 mdo.pay.kuaibo.com
-127.0.0.1 op.kuaibo.com
-127.0.0.1 insert-ad.kuaibo.com
-127.0.0.1 pay.mobile.kuaibo.com
-127.0.0.1 stun1.kuaibo.com
-127.0.0.1 stc2.mobi.kuaiwan.com
-#JJVOD
-127.0.0.1 txtad.jijiplayer.com
-127.0.0.1 txtad.jjvod.com
-#UUSee
-127.0.0.1 g.uusee.com
-127.0.0.1 pop.uusee.com
-127.0.0.1 sa.uusee.com
-127.0.0.1 saw.uusee.com
-127.0.0.1 traffic.uusee.com
-127.0.0.1 uhms.uusee.com
-#Bitcomet
-127.0.0.1 inside.bitcomet.com
-#FlashGet
-127.0.0.1 ack.flashget.com
-127.0.0.1 ad.flashget.com
-127.0.0.1 al.flashget.com
-127.0.0.1 cad1.flashget.com
-127.0.0.1 game.flashget.com
-127.0.0.1 ggstat.flashget.com
-127.0.0.1 guanggaobu.flashget.com
-127.0.0.1 log.flashget.com
-127.0.0.1 news.flashget.com
-127.0.0.1 stat.flashget.com
-127.0.0.1 union.flashget.com
-127.0.0.1 usrstat.flashget.com
-127.0.0.1 www.union.flashget.com
-127.0.0.1 adstat.fgsta.com
-127.0.0.1 cimg.kuaiche.com
-127.0.0.1 al.7pk.com
-127.0.0.1 cimg.7pk.com
-127.0.0.1 ufile.7pk.com
-127.0.0.1 client.7pk.com
-127.0.0.1 img.7pk.com
-127.0.0.1 imgcache.7pk.com
-127.0.0.1 post.7pk.com
-127.0.0.1 s.7pk.com
-127.0.0.1 software.7pk.com
-127.0.0.1 al.myrice.com
-127.0.0.1 all.myrice.com
-127.0.0.1 dl.game.kuaiche.com
-127.0.0.1 directui.kuaiche.com.showq.net
-127.0.0.1 static.u966.com
-127.0.0.1 m.u966.com
-127.0.0.1 123.myrice.com
-127.0.0.1 client.myrice.com
-127.0.0.1 www.pzjczx.com
-127.0.0.1 bc.qushimeiti.com
-127.0.0.1 zdhtbeian.95881.com
-#Duomi
-127.0.0.1 service.ad.duomi.com
-127.0.0.1 pc.boxshows.com
-#Hotspot Shield
-127.0.0.1 rss2search.com
-127.0.0.1 box.anchorfree.net
-#Immunet FREE
-127.0.0.1 banner.immunet.com
-#isoshu
-127.0.0.1 mobile.isoshu.com
-127.0.0.1 mobile1.isoshu.com
-127.0.0.1 pub.isoshu.com
-#isGame
-127.0.0.1 isgame.ipark.cn
-127.0.0.1 ghpage.iuzone.com
-127.0.0.1 page.iuzone.com
-#Qianqian
-127.0.0.1 ads.qianqian.com
-127.0.0.1 ttads.ttplayer.com
-127.0.0.1 ttmsg.qianqian.com
-127.0.0.1 ttpack.qianqian.com
-#Micronichefinder
-127.0.0.1 www.micronichefinder.com
-127.0.0.1 micronichefinder.com
-#Neoimaging
-127.0.0.1 ad.neoimaging.cn
-127.0.0.1 clientconfig.neoimaging.cn
-127.0.0.1 jump.neoimaging.cn
-127.0.0.1 recommend.neoimaging.cn
-#P2pover
-127.0.0.1 cache.netsoft2005.com
-127.0.0.1 ext.netsoft2005.com
-127.0.0.1 i.netsoft2005.com
-127.0.0.1 www.uu654.com
-#Pctutu
-127.0.0.1 info.klplayer.com
-127.0.0.1 update.klplayer.com
-127.0.0.1 info.pcpc8.com
-127.0.0.1 m.pcpc8.com
-127.0.0.1 info.pctutu.net
-127.0.0.1 link.pctutu.com
-127.0.0.1 srtj.pctutu.net
-127.0.0.1 tj.pctutu.net
-127.0.0.1 update.pctutu.com
-127.0.0.1 update.pctutu.net
-#QQceo
-127.0.0.1 ad.qqceo.net
-127.0.0.1 toufei.qqceo.net
-127.0.0.1 toufei2.qqceo.net
-127.0.0.1 nl.tg.laolinow.com
-127.0.0.1 qqbmad.mycode8.com
-#QQChaoShi
-127.0.0.1 update.imqzone.com
-#QQvoice
-127.0.0.1 union.qqvoice.com
-127.0.0.1 union.uucall.hk
-#Vagaa
-127.0.0.1 btjoy.com
-127.0.0.1 img.daodao001.cn
-127.0.0.1 text.mplayer.org.cn
-127.0.0.1 download.verycd.com
-#WPS
-127.0.0.1 union.wps.kingsoft.com
-127.0.0.1 minisite.wps.cn
-127.0.0.1 activation.wps.cn
+@soft
+#im.qq.com
+127.0.0.1 ca.gtimg.com
+127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 analy.qq.com
+127.0.0.1 q.i.gdt.qq.com
+127.0.0.1 c.gdt.qq.com
+127.0.0.1 v.gdt.qq.com
+127.0.0.1 updatecenter.qq.com
+#tencent-qq-down
+127.0.0.1 c.gj.qq.com
+127.0.0.1 c.pc.qq.com
+127.0.0.1 scdown.qq.com
+127.0.0.1 download.sj.qq.com
+127.0.0.1 t.sj.qq.com
+127.0.0.1 ws.sj.qq.com
+#wps.cn
+127.0.0.1 ad.docer.wps.cn
+127.0.0.1 info.wps.cn
 127.0.0.1 push.wps.cn
-127.0.0.1 adm.bbcss.com
-127.0.0.1 www.39yss.com
-#XiGua
-127.0.0.1 ad.xigua.com
-127.0.0.1 adi.xigua.com
-127.0.0.1 log.xigua.com
-127.0.0.1 adv2.downsave.com
-#Yunduan
-127.0.0.1 newbox.yunduan.cn
-127.0.0.1 tj.yunduan.cn
-127.0.0.1 update.yunduan.cn
-#ZhuShou
-127.0.0.1 ad.click.zhushou.so
+127.0.0.1 cnc.ef-cdn.com
+127.0.0.1 tg.7477.com
+#http://www.bitcomet.com/
+127.0.0.1 inside.bitcomet.com
+#http://www.jjvod.com/
+127.0.0.1 jjhd47.115seo.com
+127.0.0.1 mini.jijiplayer.com
+127.0.0.1 txtad.jijiplayer.com
+127.0.0.1 api.goulegu.com
+#http://www.tiantiankan123.com/
+127.0.0.1 item.ttkvod.com
+127.0.0.1 g.s8dj.com
+127.0.0.1 g.f11w.com
+127.0.0.1 img.88rpg.net
+127.0.0.1 kwcscdn.000dn.com
+127.0.0.1 kwflvcdn.000dn.com
+#http://www.winrar.com.cn
+127.0.0.1 ad.winrar.com.cn

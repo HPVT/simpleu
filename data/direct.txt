@@ -1,0 +1,13 @@
+@direct-os
+::1     localhost
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+255.255.255.255	broadcasthost
+127.0.0.1 localhost
+@direct-site
+#uvwxyz.xyz
+45.35.43.168 uvwxyz.xyz
+45.35.43.168 www.uvwxyz.xyz
+45.35.43.168 bbs.uvwxyz.xyz
+45.35.43.170 ipv6.uvwxyz.xyz
