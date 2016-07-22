@@ -809,3 +809,22 @@
 127.0.0.1 syndication.twitter.com
 #xici.net
 127.0.0.1 adimgs.xici.net
+@web-cn/soft
+#bitcomet.com
+127.0.0.1 inside.bitcomet.com
+#qq-im.qq.com
+127.0.0.1 ca.gtimg.com
+127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 analy.qq.com
+127.0.0.1 q.i.gdt.qq.com
+127.0.0.1 c.gdt.qq.com
+127.0.0.1 v.gdt.qq.com
+127.0.0.1 updatecenter.qq.com
+#wps.cn
+127.0.0.1 ad.docer.wps.cn
+127.0.0.1 info.wps.cn
+127.0.0.1 push.wps.cn
+127.0.0.1 cnc.ef-cdn.com
+127.0.0.1 tg.7477.com
+#www.winrar.com.cn
+127.0.0.1 ad.winrar.com.cn

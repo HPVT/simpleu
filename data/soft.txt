@@ -1,12 +1,5 @@
 @soft
-#im.qq.com
-127.0.0.1 ca.gtimg.com
-127.0.0.1 pgdt.gtimg.cn
-127.0.0.1 analy.qq.com
-127.0.0.1 q.i.gdt.qq.com
-127.0.0.1 c.gdt.qq.com
-127.0.0.1 v.gdt.qq.com
-127.0.0.1 updatecenter.qq.com
+
 #tencent-qq-down
 127.0.0.1 c.gj.qq.com
 127.0.0.1 c.pc.qq.com
@@ -14,14 +7,8 @@
 127.0.0.1 download.sj.qq.com
 127.0.0.1 t.sj.qq.com
 127.0.0.1 ws.sj.qq.com
-#wps.cn
-127.0.0.1 ad.docer.wps.cn
-127.0.0.1 info.wps.cn
-127.0.0.1 push.wps.cn
-127.0.0.1 cnc.ef-cdn.com
-127.0.0.1 tg.7477.com
-#http://www.bitcomet.com/
-127.0.0.1 inside.bitcomet.com
+
+
 #http://www.jjvod.com/
 127.0.0.1 jjhd47.115seo.com
 127.0.0.1 mini.jijiplayer.com
@@ -34,5 +21,4 @@
 127.0.0.1 img.88rpg.net
 127.0.0.1 kwcscdn.000dn.com
 127.0.0.1 kwflvcdn.000dn.com
-#http://www.winrar.com.cn
-127.0.0.1 ad.winrar.com.cn
+
