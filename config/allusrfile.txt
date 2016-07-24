@@ -1,8 +1,4 @@
 Application Data\37wan
 Application Data\QQPet
 Application Data\Windows Genuine Advantage
-Application Data\Orbit\AdConfig
-Application Data\Kingsoft\elive
-Application Data\Kingsoft\DaoHang
-Application Data\Kingsoft\Shoujikong
 Application Data\Tencent\QQPCMgr
