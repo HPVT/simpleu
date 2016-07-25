@@ -26,7 +26,6 @@
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 gen.alicdn.com
-127.0.0.1 tce.alicdn.com
 #ali-cnzz
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
@@ -1222,6 +1221,8 @@
 127.0.0.1 a-m-s.poco.cn
 #heiguang.com
 127.0.0.1 pro.heiguang.com
+#xitek.com
+127.0.0.1 www8.xitek.com
 @web-cn/shopping
 #egou.com
 127.0.0.1 ad.egou.com

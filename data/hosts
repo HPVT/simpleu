@@ -1,5 +1,5 @@
 
-#version=201607251836
+#version=201607252135
 #url=https://github.com/vokins/simpleu
 45.35.43.168 uvwxyz.xyz
 45.35.43.168 www.uvwxyz.xyz
@@ -271,7 +271,6 @@
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 gen.alicdn.com
-127.0.0.1 tce.alicdn.com
 127.0.0.1 js.adm.cnzz.net
 127.0.0.1 tui.cnzz.net
 127.0.0.1 c.cnzz.com
@@ -1248,6 +1247,7 @@
 127.0.0.1 js.fengniao.com
 127.0.0.1 a-m-s.poco.cn
 127.0.0.1 pro.heiguang.com
+127.0.0.1 www8.xitek.com
 127.0.0.1 ad.egou.com
 127.0.0.1 a.dangdang.com
 127.0.0.1 click.dangdang.com
