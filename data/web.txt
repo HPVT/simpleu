@@ -23,7 +23,6 @@
 127.0.0.1 aecpm.alicdn.com
 127.0.0.1 afp.alicdn.com
 127.0.0.1 afpmm.alicdn.com
-127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 gen.alicdn.com
@@ -97,6 +96,7 @@
 127.0.0.1 z4.cnzz.com
 127.0.0.1 z5.cnzz.com
 127.0.0.1 z6.cnzz.com
+127.0.0.1 z8.cnzz.com
 127.0.0.1 z9.cnzz.com
 #ali-mama
 127.0.0.1 a.alimama.cn
@@ -914,7 +914,6 @@
 127.0.0.1 minisite.letv.com
 #mgtv.com
 127.0.0.1 stat.titan.imgo.tv
-127.0.0.1 disp.titan.mgtv.com
 127.0.0.1 g.wan.mgtv.com
 127.0.0.1 hunantv.m.cn.miaozhen.com
 127.0.0.1 s.mini.kuaibo.com

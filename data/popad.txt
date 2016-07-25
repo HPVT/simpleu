@@ -33,6 +33,7 @@
 127.0.0.1 ww202.keyyou.net
 127.0.0.1 pic8.onetad.com
 127.0.0.1 img.ynwqls.com
+127.0.0.1 js3077.cnbole.net
 127.0.0.1 t188.dazhonghua.cn
 #m.shuhuangge.com
 127.0.0.1 www.daima123.cc
